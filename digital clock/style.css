@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(223, 235, 235);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.clock{
+    
+  text-align: center;
+ letter-spacing: 2px;
+
+    
+}
+.clock .box{
+margin-top: 10rem;
+padding: 4rem;
+border: 2px solid black;
+margin: 7rem;
+border-radius: 10px;
+
+
+
+}
+.clock h1{
+    text-align: center;
+    padding-top: 10rem;
+margin-top: 3rem;
+font-size: 2rem;
+}
+
+    
+.clock #hours{
+    background-color: aliceblue;
+    padding: 1rem;
+   
+  
+
+}
+clock #minutes{
+    background-color: aliceblue;
+    padding: 1rem;
+   
+  
+
+}
+.clock #seconds{
+    background-color: aliceblue;
+    padding: 1rem;
+   
+  
+
+}
+.clock #ampm{
+    background-color: aliceblue;
+    padding: 1rem;
+   
+  
+
+}
+
+
+
+
+.clock #minutes{
+     background-color: aliceblue;
+     padding: 1rem;
+    
+   
+
+}
